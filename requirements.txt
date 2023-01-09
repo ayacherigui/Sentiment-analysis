@@ -5,4 +5,4 @@ scikit_learn==1.0.2
 tensorboard==2.8.0
 pandas
 GPUtil==1.4.0
-os
+os==3.1.0

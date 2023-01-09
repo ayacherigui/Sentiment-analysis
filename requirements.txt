@@ -3,5 +3,6 @@ numpy==1.20.3
 matplotlib==3.5.1
 scikit_learn==1.0.2
 tensorboard==2.8.0
+pandas
 GPUtil==1.4.0
 os
